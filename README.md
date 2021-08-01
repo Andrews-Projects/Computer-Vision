@@ -14,11 +14,13 @@ The project employs the follwing key areas:
 3. Implement Deep learning & train model.
 
 ## Phase 1: Implement hand pose detection
-- Recognize the flow of movement of  both hands finding key areas on a hand. Key-points correspond to the joints.
+- Recognize the flow of movement of both hands finding key areas on a hand. Key-points correspond to the joints.
 
 Dependencies & Tools used
 
--- MediaPipe - Media Pipe is a library that enables object tracking.
+-- MediaPipe - Media Pipe is an open source library that enables object tracking by offering customizable M.L solutions for live andd streaming media.
 
--- OpenCV Python bindings.
+-- OpenCV Python bindings - OpenCV is an open source framework used for Image an video manipulations i.eComputer vision.
+
+
 

@@ -1,4 +1,4 @@
-## A computer vision repo
+## These are just my footnotes
 
 All CV applications need images as input & images as output and a window as as an output destination.
 
