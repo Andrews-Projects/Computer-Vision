@@ -1,4 +1,4 @@
-# Computer Vision Project – Sign language interprator
+# Computer Vision Project – Sign language interpreter
 
 ## INTRODUCTION
 
@@ -18,9 +18,9 @@ The project employs the follwing key areas:
 
 Dependencies & Tools used
 
--- MediaPipe - Media Pipe is an open source library that enables object tracking by offering customizable M.L solutions for live andd streaming media.
+-- MediaPipe - Media Pipe is an open source library that enables object tracking by offering customizable M.L solutions for live and streaming media.
 
--- OpenCV Python bindings - OpenCV is an open source framework used for Image an video manipulations i.eComputer vision.
+-- OpenCV Python bindings - OpenCV is an open source framework used for Image and video manipulations i.e Computer vision.
 
 
 
