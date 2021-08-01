@@ -8,7 +8,7 @@ The project employs the follwing key areas:
 1. Computer vision.
 2. Deep learning. [TensorFlow library]
 
-# The project will be implemented in 2 phases:
+# The project will be implemented in 3 phases:
 1. Recognize simple hand poses by tracing the hand’s joints.
 2. Implement TensorFlow object detection.
 3. Implement Deep learning & train model.
