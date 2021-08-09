@@ -24,5 +24,16 @@ Dependencies & Tools used
 
 ## Phase 2: Implementing TensorFlow object detection
 
+-- Labelling images for Object Detection.
+-- Training Tensorflow for Sign Language.
+-- Detecting Sign language inreal Time.
+
+1. Prepare image labels using labelling & draw boxes over multiple sing language collected with my webcam.
+2. Transfer learning using SSD MobileNet.
+
+
+
+
+
 ## Phase 3: Implementing Deep learning & train model
 
