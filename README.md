@@ -23,6 +23,7 @@ Dependencies & Tools used
 ** OpenCV Python bindings - OpenCV is an open source framework used for Image and video manipulations i.e Computer vision.
 
 ## Phase 2: Implementing TensorFlow object detection
+Dependencies - Pre-trained models(cause i am on a laptop)
 
 -- Labelling images for Object Detection.
 -- Training Tensorflow for Sign Language.
