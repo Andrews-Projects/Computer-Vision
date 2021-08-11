@@ -25,7 +25,7 @@ Dependencies & Tools used
 ## Phase 2: Implementing TensorFlow object detection
 Dependencies - Pre-trained models(cause i am on a laptop)
 
--- Labelling images for Object Detection.
+-- Labelling images for Object Detection - using Label Image package to label images for object detection.[LabelImg]
 -- Training Tensorflow for Sign Language.
 -- Detecting Sign language inreal Time.
 
